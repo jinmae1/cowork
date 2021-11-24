@@ -154,4 +154,7 @@ $RECYCLE.BIN/
 WEB-INF/lib
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse,windows,macos
+<<<<<<< HEAD
 /build/
+=======
+>>>>>>> branch 'master' of https://github.com/jinmae1/cowork.git
