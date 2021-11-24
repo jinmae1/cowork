@@ -154,3 +154,4 @@ $RECYCLE.BIN/
 WEB-INF/lib
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse,windows,macos
+/build/
